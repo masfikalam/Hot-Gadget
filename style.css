@@ -37,6 +37,18 @@ nav ul li a {
     font-weight: bold;
 }
 
+#phones {
+    background-image: url("images/bg-1.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+#laptops {
+    background-image: url("images/bg-1.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
 #carousel .carousel-indicators li {
     background-color: #6e6e6e;
     width: 20px;
