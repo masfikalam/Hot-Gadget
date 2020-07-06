@@ -1,0 +1,96 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #bfffdd
+}
+
+section {
+    padding: 80px 0;
+}
+
+nav {
+    background-image: linear-gradient(to right, #5afd5a, cyan, #6060f6);
+    box-shadow: 0 2px 10px 1px #a8a8a8;
+}
+
+nav ul li a {
+    color: #000;
+    font-weight: bold;
+}
+
+.buy {
+    background-image: linear-gradient(to right, #5381ff, #2e2eff);
+    color: #fff;
+    border: none;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.buy:hover {
+    color: #fff;
+}
+
+.highlight {
+    color: #2f60ff;
+    font-weight: bold;
+}
+
+#carousel .carousel-indicators li {
+    background-color: #6e6e6e;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+
+#carousel .carousel-indicators li.active {
+    background-color: #013cff;
+}
+
+.card {
+    background-color: #fbfbfb;
+    border: none;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.card:hover {
+    transform: scale(1.01);
+    box-shadow: 0 0 15px 1px lightgray;
+    transition: .2s ease;
+}
+
+h2.highlight {
+    border-bottom: 5px solid;
+    border-image: linear-gradient(to right, #ff0000, #fd0cd5);
+    border-image-slice: 1;
+    padding-bottom: 5px;
+}
+
+.cat-1 {
+    background-color: #5381ff;
+}
+
+.cat-2 {
+    background-color: hotpink;
+}
+
+.cat-3 {
+    background-color: #5afd5a;
+}
+
+.cat-1,
+.cat-2,
+.cat-3 {
+    padding-bottom: 20px;
+    margin: 10px;
+    border-radius: 5px 5px 30px 5px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.cat-1:hover,
+.cat-2:hover,
+.cat-3:hover {
+    transform: scale(0.95);
+}
