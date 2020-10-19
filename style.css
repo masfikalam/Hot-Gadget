@@ -106,3 +106,15 @@ h2.highlight {
 .cat-3:hover {
     transform: scale(0.95);
 }
+
+@media (max-width:400px) {
+    .cat-1,
+    .cat-2,
+    .cat-3 {
+        transform: scale(0.7);
+    }
+    .card{
+        margin: auto;
+        width: 80%;
+    }
+}
