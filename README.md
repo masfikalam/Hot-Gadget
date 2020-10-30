@@ -8,5 +8,5 @@ This project is a simple e-commerce site's landing page.
 
 Technologies : HTML, CSS, Bootstrap
 
-* [Live Site](https://masfikalam.github.io/Portfolio-Demo)
-* [Github Site](https://github.com/masfikalam/Portfolio-Demo)
+* [Live Site](https://masfikalam.github.io/Hot-Gadget)
+* [Github Site](https://github.com/masfikalam/Hot-Gadget)
